@@ -2,7 +2,7 @@
 
 ## Hey it's cw!
 
-I like building things that make work a little easier, mostly internal apps and tools, and I usually can't help adding something fun along the way.
+I like building things that make life and work a little easier, mostly internal apps and tools, and I usually can't help adding something fun along the way.
 
 These days I'm tinkering a lot with AI: coding with AI tools, playing with agents, and finding practical ways to bring AI into everyday apps.
 
