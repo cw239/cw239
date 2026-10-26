@@ -1,6 +1,6 @@
 <img src="./banner.svg" alt="cw239 over a pixel starfield with a ringed planet" width="100%">
 
-## 👋 hey, I'm cw239
+## Hey it's cw!
 
 I build practical internal tools, and lately small add-ons that make Claude Code more fun to use. Most of what I work on lives in private repos.
 
