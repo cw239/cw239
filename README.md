@@ -30,13 +30,6 @@ const cw = {
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cw239/cw239/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/cw239/cw239/output/snake-light.svg" alt="A snake eating cw239's contribution graph" width="100%">
-</picture>
-
 <details>
 <summary>🛸 don't click this</summary>
 
