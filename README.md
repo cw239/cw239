@@ -6,15 +6,16 @@ I build internal enterprise apps: the everyday tools teams rely on to plan, trac
 
 I'm also really into AI: coding with AI tools, agents that take on real multi-step work, and bringing practical AI into business apps.
 
-```console
-$ whoami
-cw239, builds internal enterprise apps
+## About
 
-$ cat interests.txt
-ai · ai coding tools · agents & automation · ai in business apps
-
-$ ls ~/toolbox
-typescript  react  node  postgres  azure  claude-code
+```ts
+const cw = {
+  builds:   'internal enterprise apps',
+  stack:    ['typescript', 'react', 'node', 'postgres', 'azure'],
+  into:     ['ai coding tools', 'agents & automation', 'ai in business apps'],
+  learning: ['ai agents', 'azure / cloud'],
+  funFact:  'spent longer making the planet in my banner spin than writing this card 🪐',
+} satisfies Dev;
 ```
 
 ## 🧰 Toolbox
