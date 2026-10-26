@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="190" viewBox="0 0 840 190" role="img" aria-label="cw239, with a pixel crab walking along the bottom">
+  <style>
+    .bg{fill:#f6f8fa}.dot{fill:#d0d7de}.ink{fill:#1f2328}.sub{fill:#57606a}.sand{fill:#eadfc8}.sand2{fill:#d9c9a3}
+    @media (prefers-color-scheme: dark){.bg{fill:#161b22}.dot{fill:#30363d}.ink{fill:#e6edf3}.sub{fill:#8b949e}.sand{fill:#3a3226}.sand2{fill:#4d4231}}
+    .walk{animation:walk 14s linear infinite}
+    .bob{animation:bob .5s steps(1) infinite}
+    .la{animation:step .5s steps(1) infinite}.lb{animation:step .5s steps(1) infinite -.25s}
+    .clawl{transform-box:fill-box;transform-origin:100% 100%;animation:snip 1.2s steps(1) infinite}
+    .clawr{transform-box:fill-box;transform-origin:0 100%;animation:snip 1.2s steps(1) infinite -.6s}
+    .cursor{animation:blink 1s steps(1) infinite}
+    .bub{animation:rise 4s ease-in infinite;opacity:0}.bub2{animation-delay:-1.6s}.bub3{animation-delay:-2.9s}
+    @keyframes walk{0%{transform:translateX(-80px)}100%{transform:translateX(900px)}}
+    @keyframes bob{50%{transform:translateY(-2px)}}
+    @keyframes step{50%{transform:translateY(-3px)}}
+    @keyframes snip{50%{transform:rotate(-14deg)}}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes rise{0%{opacity:0;transform:translateY(0)}20%{opacity:.7}100%{opacity:0;transform:translateY(-60px)}}
+    @media (prefers-reduced-motion: reduce){.walk,.bob,.la,.lb,.clawl,.clawr,.cursor,.bub{animation:none}.bub{opacity:.5}}
+  </style>
+  <defs>
+    <pattern id="grid" width="14" height="14" patternUnits="userSpaceOnUse"><rect class="dot" x="6" y="6" width="2" height="2"/></pattern>
+    <clipPath id="card"><rect width="840" height="190" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect class="bg" width="840" height="190"/>
+    <rect width="840" height="190" fill="url(#grid)" opacity=".6"/>
+
+    <text class="ink" x="40" y="72" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="46" font-weight="700">cw239<tspan class="cursor" fill="#E07A5F">_</tspan></text>
+    <text class="sub" x="42" y="102" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="15">builds internal tools · tinkers with Claude Code</text>
+
+    <g fill="#7FB8D9">
+      <circle class="bub" cx="700" cy="140" r="4"/>
+      <circle class="bub bub2" cx="716" cy="146" r="3"/>
+      <circle class="bub bub3" cx="690" cy="148" r="2.5"/>
+    </g>
+
+    <rect class="sand" x="0" y="170" width="840" height="20"/>
+    <g class="sand2"><rect x="60" y="176" width="6" height="3"/><rect x="230" y="180" width="4" height="3"/><rect x="410" y="175" width="8" height="3"/><rect x="590" y="181" width="5" height="3"/><rect x="760" y="177" width="7" height="3"/></g>
+
+    <!-- A 16×11 pixel crab, 4px per pixel, walking along the sand. -->
+    <g class="walk">
+      <g transform="translate(0,126) scale(4)" shape-rendering="crispEdges">
+        <g class="bob">
+          <g class="clawl" fill="#C4623F"><rect x="1" y="0" width="2" height="1"/><rect x="0" y="1" width="2" height="1"/><rect x="3" y="1" width="1" height="1"/><rect x="0" y="2" width="4" height="1"/><rect x="1" y="3" width="2" height="1"/></g>
+          <g class="clawr" fill="#C4623F"><rect x="13" y="0" width="2" height="1"/><rect x="12" y="1" width="1" height="1"/><rect x="14" y="1" width="2" height="1"/><rect x="12" y="2" width="4" height="1"/><rect x="13" y="3" width="2" height="1"/></g>
+          <g fill="#E07A5F">
+            <rect x="2" y="4" width="1" height="2"/><rect x="13" y="4" width="1" height="2"/>
+            <rect x="5" y="3" width="1" height="2"/><rect x="10" y="3" width="1" height="2"/>
+            <rect x="3" y="5" width="10" height="1"/>
+            <rect x="3" y="6" width="10" height="2"/>
+            <rect x="4" y="8" width="8" height="1"/>
+          </g>
+          <g fill="#1F2328"><rect x="5" y="2" width="1" height="1"/><rect x="10" y="2" width="1" height="1"/></g>
+          <g fill="#F2A48C"><rect x="5" y="6" width="2" height="1"/></g>
+        </g>
+        <g fill="#C4623F">
+          <g class="la"><rect x="3" y="9" width="1" height="2"/><rect x="9" y="9" width="1" height="2"/></g>
+          <g class="lb"><rect x="6" y="9" width="1" height="2"/><rect x="12" y="9" width="1" height="2"/></g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
