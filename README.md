@@ -10,7 +10,6 @@ I'm also really into AI: coding with AI tools, agents that take on real multi-st
 
 ```ts
 const cw = {
-  builds:   'internal enterprise apps',
   stack:    ['typescript', 'react', 'node', 'postgres', 'azure'],
   into:     ['ai coding tools', 'agents & automation', 'ai in business apps'],
   learning: ['ai agents', 'azure / cloud'],
