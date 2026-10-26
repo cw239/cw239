@@ -2,9 +2,9 @@
 
 ## Hey it's cw!
 
-I build internal enterprise apps: the everyday tools teams rely on to plan, track and get work done. I like making them a bit more fun along the way.
+I like building things that make work a little easier, mostly internal apps and tools, and I usually can't help adding something fun along the way.
 
-I'm also really into AI: coding with AI tools, agents that take on real multi-step work, and bringing practical AI into business apps.
+These days I'm tinkering a lot with AI: coding with AI tools, playing with agents, and finding practical ways to bring AI into everyday apps.
 
 ## About
 
