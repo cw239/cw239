@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="cw239, with a spaceship flying through the stars" width="100%">
+<img src="./banner.svg" alt="cw239, with a pixel spaceship flying through the stars" width="100%">
 
 ## 👋 hey, I'm cw239
 
