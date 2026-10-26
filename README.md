@@ -1,4 +1,4 @@
-<img src="./banner.svg" alt="cw239, with a pixel crab walking along the bottom" width="100%">
+<img src="./banner.svg" alt="cw239, with a pixel spaceship flying through the stars" width="100%">
 
 ## 👋 hey, I'm cw239
 
@@ -46,4 +46,4 @@ typescript  react  node  postgres  azure  claude-code
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<sub>🦀 the crab in the banner keeps walking while you read.</sub>
+<sub>🚀 the little ship in the banner keeps flying while you read.</sub>
