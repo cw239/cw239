@@ -2,11 +2,11 @@
 
 ## Hey it's cw!
 
-I build practical tools and like making them a bit more fun along the way. Most of what I work on lives in private repos.
+I build internal enterprise apps: the everyday tools teams rely on to plan, track and get work done. I like making them a bit more fun along the way. Most of what I work on lives in private repos.
 
 ```console
 $ whoami
-cw239, builds things
+cw239, builds internal enterprise apps
 
 $ ls ~/toolbox
 typescript  react  node  postgres  azure  claude-code
