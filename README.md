@@ -2,39 +2,15 @@
 
 ## Hey it's cw!
 
-I build practical internal tools, and lately small add-ons that make Claude Code more fun to use. Most of what I work on lives in private repos.
+I build practical tools and like making them a bit more fun along the way. Most of what I work on lives in private repos.
 
 ```console
 $ whoami
-cw239, builds internal tools
-
-$ cat now.txt
-shipping    a planning and scheduling web app, hosted on Azure
-tracking    hardware, people, licences and renewals in one place
-tinkering   Claude Code mods (pixel crabs included)
+cw239, builds things
 
 $ ls ~/toolbox
 typescript  react  node  postgres  azure  claude-code
 ```
-
-## 🛠️ What I build
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🗓️ Planning</h3>
-      A web app for planning and scheduling work, running on Azure.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🖥️ Asset tracking</h3>
-      One register for hardware, the people using it, software licences and renewal dates.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🦀 Claude Code mods</h3>
-      A progress bar for long jobs and a live panel of subagents, drawn as costumed pixel crabs.
-    </td>
-  </tr>
-</table>
 
 ## 🧰 Toolbox
 
@@ -45,4 +21,3 @@ typescript  react  node  postgres  azure  claude-code
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
